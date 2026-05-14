@@ -276,5 +276,4 @@ if __name__ == "__main__":
     chart_subway_stations(conn)
 
     conn.close()
-    print(f"\n✅ Phase 3 complete. All charts saved to '{CHART_DIR}/'")
-    print("   Run phase4_dashboard.py next.\n")
+    
