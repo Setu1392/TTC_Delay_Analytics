@@ -274,4 +274,4 @@ if __name__ == "__main__":
     eda_combined(conn)
 
     conn.close()
-    print("\n✅ Phase 2 complete. Run phase3_viz.py next.\n")
+  
