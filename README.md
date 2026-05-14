@@ -127,7 +127,7 @@ Starts a local Dash app at **http://127.0.0.1:8050** with interactive filters fo
 - **Monthly trend** — incident volume over time with area fill
 - **Top routes / stations** — worst performers by total delay or incident count
 - **Worst delays table** — sortable, top 50 worst individual delays
-- ![Dashboard](screenshots/dashboard.png)
+- ![Dashboard](screenshots/Dashboard.png)
 
 ---
 
