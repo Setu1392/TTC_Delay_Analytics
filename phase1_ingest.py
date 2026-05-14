@@ -227,5 +227,3 @@ if __name__ == "__main__":
     write_to_sqlite(bus_df, subway_df, DB_PATH)
 
     validate_db(DB_PATH)
-
-    print("\n✅ Phase 1 complete. Run phase2_eda.py next.\n")
